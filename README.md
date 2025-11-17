@@ -1,5 +1,6 @@
 # my_first_app
-you can get the game on google Play
+you can get the game on google Play.
+
 A new Flutter project.
 
 ## Getting Started
@@ -16,4 +17,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 Thenks.
+
 
