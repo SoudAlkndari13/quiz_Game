@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-### you can get the game on google Play.
+### you can get the game on [google Play.](https://www.google.com/search?q=%D9%81%D8%B1%D9%8A%D9%82&oq=%D9%81%D8%B1%D9%8A%D9%82&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQLhiABDIHCAUQABiABDIHCAYQLhiABDIHCAcQABiABDIHCAgQLhiABDIHCAkQABiABNIBCDk3MDFqMGo3qAIIsAIB8QX4nyu_8a1OuQ&sourceid=chrome&ie=UTF-8)
 
 ## Getting Started
 
@@ -18,6 +18,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 Thenks.
+
 
 
 
